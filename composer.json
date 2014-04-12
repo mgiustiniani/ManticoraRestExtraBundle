@@ -2,9 +2,9 @@
     "name": "manticora/rest-extra-bundle",
     "description": "Utilities for Symfony Rest Services",
     "require": {
-        "symfony/expression-language": "~2.4.*",
-        "symfony/routing": "~2.4.*",
-        "symfony/framework-bundle":"~2.3.*"
+        "symfony/expression-language": "~2.4",
+        "symfony/routing": "~2.4",
+        "symfony/framework-bundle":"~2.3"
     },
     "license": "MIT",
     "authors": [
