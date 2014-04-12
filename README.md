@@ -75,9 +75,7 @@ public function registerBundles()
 
 ## TODO
 
-
  * Json Patch
- * Url Matcher rewrite
  * AbstractHalRepository
  * Hal Test Utility
  * JMS Serializer Group Strategy rewrite
