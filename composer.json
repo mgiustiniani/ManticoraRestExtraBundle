@@ -12,5 +12,8 @@
             "name": "Mario Giustiniani",
             "email": "mariogiustiniani@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": { "Manticora\\RestExtraBundle": "" }
+    }    
 }
