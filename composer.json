@@ -16,5 +16,5 @@
     "autoload": {
         "psr-0": { "Manticora\\RestExtraBundle": "" }
     },
-    "target-dir": "Manticora/RestExtraBundle",   
+    "target-dir": "Manticora/RestExtraBundle"
 }
