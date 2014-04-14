@@ -41,7 +41,7 @@ Add the following lines in your `composer.json` file:
 ```json
 {
     "require": {
-        "manticora/rest-extra-bundle": "dev-master"
+        "manticora/rest-extra-bundle": "0.1"
     }
 }
 ```
@@ -87,3 +87,6 @@ public function registerBundles()
 
  RestExtraBundle is released under the MIT License. See the bundled LICENSE file for
  details.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mgiustiniani/restextrabundle/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
