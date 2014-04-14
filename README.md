@@ -88,5 +88,3 @@ public function registerBundles()
  RestExtraBundle is released under the MIT License. See the bundled LICENSE file for
  details.
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mgiustiniani/restextrabundle/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
