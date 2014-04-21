@@ -7,7 +7,7 @@ Utilities for Symfony Rest Services
 
 ### Router Expression Language Injection
 
-With Router expression Language injection you can use an custom Expression Language in routing condition, in bundle we have an Custom Expression Language with version_compare function for Versioning Rest Services
+Injecting the Router expression Language you can use the the custom Expression Language class in the routing conditions, this class contains the PHP version_compare function for versioning rest web services
 
 ``` php
 
@@ -16,9 +16,7 @@ With Router expression Language injection you can use an custom Expression Langu
      */
     public function cgetAction()
     {
-
-
-         return $this->getRepository()->findAll();
+        return $this->getRepository()->findAll();
     }
 
     /**
@@ -87,4 +85,3 @@ public function registerBundles()
 
  RestExtraBundle is released under the MIT License. See the bundled LICENSE file for
  details.
-

@@ -7,11 +7,7 @@
         <parameter key="manticora_rest_extra.expression_language.class">Manticora\RestExtraBundle\ExpressionLanguage\ExpressionLanguage</parameter>
     </parameters>
 
-
     <services>
-        <service id="manticora_rest_extra.expression_language" class="%manticora_rest_extra.expression_language.class%">
-
-
-        </service>
+        <service id="manticora_rest_extra.expression_language" class="%manticora_rest_extra.expression_language.class%"></service>
     </services>
 </container>
