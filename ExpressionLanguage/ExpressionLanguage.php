@@ -1,9 +1,4 @@
 <?php
-/**
- * User: Mario Giustiniani
- * Date: 12/04/14
- * Time: 14.22
- */
 
 namespace Manticora\RestExtraBundle\ExpressionLanguage;
 
