@@ -18,10 +18,6 @@ class RouterApiTest extends \PHPUnit_Framework_TestCase
 {
     public function testCondition()
     {
-        $route = new Route('/');
-        $this->assertEquals(null, $route->getCondition());
-        $route->setCondition('context.getMethod() == "GET"');
-        $this->assertEquals('context.getMethod() == "GET"', $route->getCondition());
 
         $coll = new RouteCollection();
         $route = new Route('/foo');
