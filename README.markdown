@@ -1,6 +1,8 @@
 RestExtraBundle
 ===============
 
+[![Build Status](https://travis-ci.org/mgiustiniani/ManticoraGoogleFederatedLoginBundle.svg)](https://travis-ci.org/mgiustiniani/ManticoraGoogleFederatedLoginBundle)
+
 Utilities for Symfony Rest Services
 
 ## Usage
